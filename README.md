@@ -47,7 +47,7 @@ MERN Stack Developer
 ## 🚀 Installation & Setup
 
 ```bash
-git clone https://github.com/ayushi48/ai.git
+git clone https://github.com/shubham-kumar145/Logic-AI.git
 cd ai
 npm install
 npm run dev
